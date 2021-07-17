@@ -1,5 +1,5 @@
 // The purpose of this class is to model a television
-// Your name and today’s date
+// Caleb Danso
 
 public class Television {
     private static String MANUFACTURER;
